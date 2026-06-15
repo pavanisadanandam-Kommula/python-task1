@@ -1,0 +1,9 @@
+{
+  "name": "python-to-do-list",
+  "private": true,
+  "scripts": {
+    "dev": "cd todo-web && npm run dev",
+    "build": "cd todo-web && npm install && npm run build",
+    "preview": "cd todo-web && npm run preview"
+  }
+}
